@@ -1,0 +1,10 @@
+[package]
+name = "codecrafters-git-rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.96"
+bytes = "1.10.0"
+flate2 = "1.0.35"
+thiserror = "2.0.11"
